@@ -1,2 +1,0 @@
-# mashhadi.github.io
-website
