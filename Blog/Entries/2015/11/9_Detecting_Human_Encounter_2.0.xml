@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="D197DE57-E977-4673-A097-AC3FBE5A45D1">
+  <lastEdited clientType="local-build-20170426" date="2017-04-26 16:27:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Detecting Human Encounter 2.0 &lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Detecting Human Encounter 2.0</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Last week in Websummit, we trialled our active WiFi badges. We gave away 100 badges to investors and start-ups and collected their anonymous radio signal to detect their interactions through our deployed gateways. It was our biggest deployment in a very challenging (dense) area.  Our analysis and insights will follow shortly, and we hope to cover the next event with 1000 badges.  &#xD;If you are interested in knowing more about what insights and analytics our system can provide for your events, drop me an &lt;a href="mailto:afra.mashhadi@bell-labs.com?subject=Encounter%202.0"&gt;email&lt;/a&gt;. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 9 November 2015&lt;/b&gt;</richText>
+  </textBox>
+</content>

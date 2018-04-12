@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/afra/Documents/Website/mashhadi/Blog</link>
+    <description>In this space I hope to bring to you some of my recent ideas and interest.</description>
+    <item>
+      <title>Detecting Human Encounter 2.0</title>
+      <link>file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/11/9_Detecting_Human_Encounter_2.0.html</link>
+      <guid isPermaLink="false">7f0ad4a2-1746-4f9e-9a5e-44ad370bfc2a</guid>
+      <pubDate>Mon, 9 Nov 2015 13:06:02 -0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/11/9_Detecting_Human_Encounter_2.0.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Detecting Human Encounter</title>
+      <link>file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/10/9_Detecting_Human_Encounter.html</link>
+      <guid isPermaLink="false">a97d0503-1e13-4249-91de-2b84eba2b88a</guid>
+      <pubDate>Fri, 9 Oct 2015 07:23:39 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/10/9_Detecting_Human_Encounter.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/afra/Documents/Website/mashhadi/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

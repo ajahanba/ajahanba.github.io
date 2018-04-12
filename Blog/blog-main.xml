@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/afra/Documents/Website/mashhadi/Blog</link>
+    <description>In this space I hope to bring to you some of my recent ideas and interest.</description>
+    <item>
+      <title>Detecting Human Encounter 2.0</title>
+      <link>file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/11/9_Detecting_Human_Encounter_2.0.html</link>
+      <guid isPermaLink="false">7f0ad4a2-1746-4f9e-9a5e-44ad370bfc2a</guid>
+      <pubDate>Mon, 9 Nov 2015 13:06:02 -0800</pubDate>
+      <description>Last week in Websummit, we trialled our active WiFi badges. We gave away 100 badges to investors and start-ups and collected their anonymous radio signal to detect their interactions through our deployed gateways. It was our biggest deployment in a very challenging (dense) area.  Our analysis and insights will follow shortly, and we hope to cover the next event with 1000 badges.  &lt;br/&gt;If you are interested in knowing more about what insights and analytics our system can provide for your events, drop me an &lt;a href="mailto:afra.mashhadi@bell-labs.com?subject=Encounter%202.0/"&gt;email&lt;/a&gt;. </description>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/11/9_Detecting_Human_Encounter_2.0.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Detecting Human Encounter</title>
+      <link>file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/10/9_Detecting_Human_Encounter.html</link>
+      <guid isPermaLink="false">a97d0503-1e13-4249-91de-2b84eba2b88a</guid>
+      <pubDate>Fri, 9 Oct 2015 07:23:39 -0700</pubDate>
+      <description>The sociologist such as Goffman and many others have studied human behaviour through observations for many decades. Many examined and defined human face-to-face interactions.&lt;br/&gt;For example, Goffman in his &#x201C;Behaviour in public places&#x201D;, defined the term encounter as &#x201C;all those instances of two or more people in a situation joining each other openly in maintaining a single focus of cognitive and visual attention, entailing preferential communication rights&#x201D;. &lt;br/&gt;&lt;br/&gt;We as technologists and scientists sometimes forget the amount of useful observations and insights that the sociologists offer.  In our recent work, my colleagues and I revisited some of Goffman findings and used them to create a model for human encounter which could be detected using simple colocation technology without the need of  invasive sensing technology (e.g., monitoring conversations or sound). &lt;br/&gt;&lt;br/&gt;We achieved that based on two simple parameters of size and the duration of the encounter. Simply put we know that for a meaningful conversation the duration needs to be at least 1 minute long (a), and based on &#x201C;ceremonial rituals&#x201D; observations from sociologist we know that as the size of the group increases the duration increases sub-linearly(b). This means, for example, while a two minute encounter for 2 persons could be long enough for a social chat, a 5 persons encounter might require more than 5 minutes. And finally, as the duration increases the likelihood of encounter between a large group of people decreases.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Putting these three simple concepts in to a model we expect human encounters to fit a log normal distribution (d), and if they do follow such distribution we can then apply similar reasoning to detect those short-lived spontaneous encounters.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In our paper, we show how we tested this model on an enterprise dataset, and how we deployed a system which leverages WiFi signals from ordinary phones (with no need for specific applications) to detect encounters in a field study in our offices. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/afra/Documents/Website/mashhadi/Blog/Entries/2015/10/9_Detecting_Human_Encounter.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/afra/Documents/Website/mashhadi/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
