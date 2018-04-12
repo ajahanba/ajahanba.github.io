@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:F3F17809-3D51-4FBB-99C7-6E2A594BD6CC</id>
+ <title>Page list Atom feed</title>
+ <updated>2017-09-17T22:43:51-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F2ED2546-7547-4CE1-8B38-491EF57603E4</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">F2ED2546-7547-4CE1-8B38-491EF57603E4</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2017-09-17T22:43:51.001-07:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C60B8E3C-6CED-40A6-89F2-FCCAEC039D69</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">C60B8E3C-6CED-40A6-89F2-FCCAEC039D69</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2017-09-17T22:43:51.002-07:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D95689E9-5A6A-46E4-AC51-659413C865EA</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">D95689E9-5A6A-46E4-AC51-659413C865EA</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2017-09-17T22:43:51.003-07:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:09CEF04B-450A-4FB1-B5F9-28BEF5EE1394</id>
+  <title>Activities</title>
+  <title xmlns="urn:iweb:">Activities</title>
+  <in-navbar xmlns="urn:iweb:">09CEF04B-450A-4FB1-B5F9-28BEF5EE1394</in-navbar>
+  <link rel="alternate" href="Activities.html"/>
+  <updated>2017-09-17T22:43:51.004-07:00</updated>
+  <content>Activities</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AE135952-EE34-4B65-817D-25ED86234EA8</id>
+  <title>Presentations</title>
+  <title xmlns="urn:iweb:">Presentations</title>
+  <in-navbar xmlns="urn:iweb:">AE135952-EE34-4B65-817D-25ED86234EA8</in-navbar>
+  <link rel="alternate" href="Presentations.html"/>
+  <updated>2017-09-17T22:43:51.005-07:00</updated>
+  <content>Presentations</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B2FE6768-BA59-4EDD-84AC-DF7CE676CDFD</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">B2FE6768-BA59-4EDD-84AC-DF7CE676CDFD</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2007-01-23T09:29:52-08:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>
